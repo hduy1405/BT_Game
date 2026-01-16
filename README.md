@@ -4,5 +4,8 @@ Dowload:
 
 <h1>Link PDF BT_Game</h1>
 Xem trực tiếp:
-(BT%20Mathematic%20in%20Unity.pdf)
+# Link PDF BT_Game
+
+[📄 Xem trực tiếp: BT Mathematic in Unity (PDF)](BT%20Mathematic%20in%20Unity.pdf)
+
 
